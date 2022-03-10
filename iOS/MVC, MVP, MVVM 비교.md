@@ -4,7 +4,8 @@
 * MVC = Model + View + Controller
   
   ### 1. 구조
-   ![MVC구조](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F7IE8f%2FbtqBRvw9sFF%2FAGLRdsOLuvNZ9okmGOlkx1%2Fimg.png)
+   
+   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F7IE8f%2FbtqBRvw9sFF%2FAGLRdsOLuvNZ9okmGOlkx1%2Fimg.png"  width="300" height="300"/>
 
   - Model : 어플리케이션에서 사용되는 데이터와 그 데이터를 처리하는 부분
   - View : 사용자에서 보여지는 UI 부분
@@ -40,7 +41,8 @@
 * MVP = Model + View + Presenter
   
   ### 1. 구조
-   ![MVP구조](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FclZlsT%2FbtqBTLzeUCL%2FIDA8Ga6Yarndgr88g9Nkhk%2Fimg.png)
+ 
+   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FclZlsT%2FbtqBTLzeUCL%2FIDA8Ga6Yarndgr88g9Nkhk%2Fimg.png"  width="300" height="300"/>
 
   - Model : 어플리케이션에서 사용되는 데이터와 그 데이터를 처리하는 부분
   - View : 사용자에서 보여지는 UI 부분
@@ -78,7 +80,7 @@
 * MVVM = Model + View + View Model
   
   ### 1. 구조
-   ![MVVM구조](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCiXz0%2FbtqBQ1iMiVT%2FstaXr7UO95opKgXEU01EY0%2Fimg.png)
+   <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCiXz0%2FbtqBQ1iMiVT%2FstaXr7UO95opKgXEU01EY0%2Fimg.png"  width="300" height="300"/>
 
   - Model : 어플리케이션에서 사용되는 데이터와 그 데이터를 처리하는 부분
   - View : 사용자에서 보여지는 UI 부분

@@ -8,6 +8,8 @@
 
 ## iOS
   - [Delegate Pattern](./iOS/Delegate%20Pattern.md)
+  - [앱의 구조와 라이프 사이클](./iOS/앱의%20구조와%20라이프%20사이클.md)
+  - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM%20비교.md)
 
 ## Swift
   - [스위프트의 언어적 특성](Swift/스위프트의%20언어적%20특성.md)
