@@ -24,11 +24,11 @@
 
   - [구조체와 클래스](./Swift/Struct,%20Class.md)
   
-  - [프로퍼티와 메서드](./Swift/Property.md)
+  - [프로퍼티와 메서드](./Swift/Property.md) `3.15 업데이트 예정`
   
-  - [인스턴스 생성 및 소멸](./Swift/Instance.md) : `3.15 업데이트 예정`
+  - [인스턴스 생성 및 소멸](./Swift/Instance.md) : `3.16 업데이트 예정`
 
-  - [프로토콜](./Swift/Protocol.md) : `3.16 업데이트 예정`
+  - [프로토콜](./Swift/Protocol.md) `업데이트 예정`
   
   - [API 디자인 가이드](./Swift/API%20Design%20Guidelines.md)
   
