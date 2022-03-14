@@ -24,7 +24,11 @@
 
   - [구조체와 클래스](./Swift/Struct,%20Class.md)
   
-  - [프로토콜](./Swift/Protocol.md)
+  - [프로퍼티와 메서드](./Swift/Property.md)
+  
+  - [인스턴스 생성 및 소멸](./Swift/Instance.md) : `3.15 업데이트 예정`
+
+  - [프로토콜](./Swift/Protocol.md) : `3.16 업데이트 예정`
   
   - [API 디자인 가이드](./Swift/API%20Design%20Guidelines.md)
   
@@ -33,7 +37,7 @@
 <br>
 
 ## RxSwift
-  -`업데이트 예정`
+  - `업데이트 예정`
 
 <br>
 
@@ -54,6 +58,8 @@
 
 ### Data Structures
   - `업데이트 예정`
+
+<br>
 
 ## ETC
   - [백준 온라인 저지 알고리즘 문제풀이 기초 문제 추천](./ETC/BOJ%20PS%20기초%20문제.md)
