@@ -154,23 +154,20 @@
 
 <br>
 
-## 2.4. 코드 (Code)
+## 2.4. 코드블럭 (Code Blocks)
 
-### 2.4.1. 들여쓰기
+코드블럭은 다음과 같이 2가지 방식을 사용할 수 있다.
 
+ * 1번. Space바 4번(권장) 혹은 Tab키 2번 누르기
 ```
-This is a normal paragraph:
-
-    This is a code block. \\ Space바 4번 혹은 Tab바 2번
+    This is a code block.
 ```
+
+    This is a code block.
 
 <br>
 
-### 2.4.2. 코드블럭
-
-코드블럭은 다음과 같이 2가지 방식을 사용할 수 있다:
-
-* 1번.  Back quote ( ` ) 또는 물결( ~ ) 3개(```)로 감싸는 방법
+* 2번.  Back quote ( ` ) 또는 물결( ~ ) 3개(```)로 감싸는 방법
   
   `주의 : 숫자 1번키 옆의 표시 (```)이다. 작은따옴표(''') 아님`
 
@@ -212,9 +209,14 @@ let name: String = "Yoon"
 print("My name is \(name).")
 ```
 
-* 2번. HTML의 `<pre><code>{~code~}</code></pre>` 이용방식
+* **인라인** 코드 삽입 : 아래처럼 문장 내에서도 Back Quote(`)를 한 번씩 쓰고 감싸주면 인라인으로 코드를 삽입할 수 있다. 
 
-  **생략함**
+```
+변수 입력은 `$var = "LYNMP";` 이렇게 합니다.
+```
+
+변수 입력은 `$var = "LYNMP";` 이렇게 합니다.
+
 
 <br>
 
@@ -222,7 +224,7 @@ print("My name is \(name).")
 
 페이지 나누기 용도로 많이 사용한다.
 
-```<hr/>```과 '*', '-', '_' 를 사용하는 4가지 방법이 있다.
+```<hr/>```과 '*', '-', '_' 를 사용하는 4가지 방법이 있다. 각 기호를 3번 이상 써준다.
 
 ```
 <hr/>
@@ -290,8 +292,7 @@ __볼드체__
 // 물결(~) 2번 감싸기
 ~~취소선~~
 
-// 밑줄은 마크다운 언어로 안된다. HTML의 방식을 사용한다.
-<u>밑줄</u>
+// 밑줄은 마크다운 언어로 안된다. 
 ```
 
 *이텔릭체*
@@ -301,10 +302,8 @@ _이텔릭체_
 __볼드체__
 
 ~~취소선~~
-  
-<u>밑줄</u>
 
-* 여기서 **백슬래쉬 이스케이프(`\`)**를 이용하면 기능을 가진 문자들을 텍스트처럼 사용 할 수 있다.
+* 여기서 **백슬래쉬 이스케이프(`\`)**를 이용하면 기능을 가진 문자들을 텍스트처럼 사용할 수 있다.
   
   주의할 점은 앞과 뒤의 형식이 똑같이 백슬래쉬 뒤의 특수문자이다.
   
@@ -379,21 +378,15 @@ __볼드체__
 
 <br>
 
-- **`가운데` 정렬** : img 태그를 p태그로 감싸고 center로 align 속성을 준다. 문자 정렬처럼 center태그로 감싸는 것도 가능하다.
+- **`가운데` 정렬** : img 태그를 p태그로 감싸고 center로 align 속성을 준다.
 
 ```html
 <p align="center"><img src="이미지 링크" width="100px" height="100px"></p>
-
-<center><img src="이미지 링크" width="100px" height="100px"></center>
 ```
 
 <br>
 
 <p align="center"><img src="https://pbs.twimg.com/media/E9s0aWRVcAImtCu?format=jpg&name=small" width="100px" height="100px"></p>
-
-<br>
-
-<center><img src="https://pbs.twimg.com/media/E9s0aWRVcAImtCu?format=jpg&name=small" width="100px" height="100px"></center>
 
 <br>
 

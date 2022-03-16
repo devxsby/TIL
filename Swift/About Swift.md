@@ -60,6 +60,8 @@
 <br>
 
 ---
-### 참고 자료
+## 참고 자료
+
+[About Swift](https://www.swift.org/about/)
 
 [Designed for safty](https://developer.apple.com/swift/#safety)
