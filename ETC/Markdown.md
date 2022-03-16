@@ -46,7 +46,7 @@
 
 <br>
 
-* 글머리: 1~6까지만 지원하며 뒤로갈수록 작아짐.
+* 글머리 : #1개 ~ #6개까지만 지원하며 뒤로 갈수록 작아진다.
   ```
   # 가
   ## 나
@@ -63,6 +63,22 @@
   ##### 마
   ###### 바
   ####### 사
+
+* **문자 중앙정렬** : center를 앞 뒤로 넣어 감싸주면 된다.
+  ```
+  <center>Hello, World!</center>
+  ```
+
+  <center>Hello, World!</center>
+
+  <br>
+
+  > 글머리랑 합쳐서 크기를 조정하고 정렬할 수도 있다.
+  ```
+  ## <center>Hello, World!</center>
+  ```
+
+  ## <center>Hello, World!</center>
 
 <br>
 
@@ -261,6 +277,7 @@ ___
 <br>
 
 ## 2.7. 강조 (Emphasis)
+
 ```c
 // 이텔릭체 : 별표(*) 또는 언더바(_)로 1번 감싸기
 *이텔릭체*
@@ -301,6 +318,8 @@ __볼드체__
 
 ## 2.8. 이미지 (Image)
 
+* 2.8.1. 간단한 사용법
+
 링크 사용법과 비슷한데 앞에 `!`표시가 붙음
 ```h
 // 이미지만 삽입
@@ -311,20 +330,70 @@ __볼드체__
 [![이미지 설명](이미지 링크)](연결될 url)
 ```
 
-![춘식이 그림일기](https://pbs.twimg.com/media/E9s0ao1VEAM3uYi?format=jpg&name=small "Choonsik")
+![핑크춘식](https://pbs.twimg.com/media/E9s0ao1VEAM3uYi?format=jpg&name=small "춘식이의 그림일기")
 
-**다만, 위의 방식은 사이즈 조절 기능은 없기 때문에 아래의 html 태그 방식을 사용하는 것이 좋다.**
+<br>
+
+* 2.8.2. 이미지 크기 조정하기
+
+**위의 1번 방식은 사이즈 조절 기능은 없기 때문에 아래의 html 태그 방식을 사용하면 이미지의 크기를 조정할 수 있다.**
 
 위의 방식의 링크 뒤에 ` width="" height=""` 부분을 추가하면 된다.
 
 ```html
-<img src="이미지 링크" width="100px" height="100px"> // 픽셀(px) 설정
-<img src="이미지 링크" width="40%" height="40%"> // 비율(%) 설정
+<img src="이미지 링크" width="200px" height="200px"> // 픽셀(px) 설정
+<img src="이미지 링크" width="50%" height="50%"> // 비율(%) 설정
 ```
 
-<img src="https://pbs.twimg.com/media/E9s0ao1VEAM3uYi?format=jpg&name=small" width="100px" height="100px">
+<img src="https://pbs.twimg.com/media/E9s0ao1VEAM3uYi?format=jpg&name=small" width="200px" height="200px">
 
-<img src="https://pbs.twimg.com/media/E9s0ao1VEAM3uYi?format=jpg&name=small" width="40%" height="40%">
+<img src="https://pbs.twimg.com/media/E9s0ao1VEAM3uYi?format=jpg&name=small" width="50%" height="50%">
+
+<br>
+
+* 2.8.3. 이미지 정렬하기
+
+마찬가지로 <img> 태그로 이미지를 첨부하고, 이미지 태그를 p태그로 감싼다. 크기 조정도 같이 할 수 있다.
+
+- `왼쪽` 정렬 (**기본값**) : img 태그에 left로 align 속성을 준다.
+
+<img src="https://pbs.twimg.com/media/E9s0aFdVUAEHphb?format=jpg&name=small" width="100px" height="100px" align="left">
+
+<br>
+
+```html
+<img src="이미지 링크" width="100px" height="100px" align="left">
+```
+
+<br>
+
+- `오른쪽` 정렬 : img 태그에 right로 align 속성을 준다.
+
+<img src="https://pbs.twimg.com/media/E9s0Z08UYAIxtI7?format=jpg&name=small" width="100px" height="100px" align="right">
+
+<br>
+
+```html
+<img src="이미지 링크" width="100px" height="100px" align="right">
+```
+
+<br>
+
+- **`가운데` 정렬** : img 태그를 p태그로 감싸고 center로 align 속성을 준다. 문자 정렬처럼 center태그로 감싸는 것도 가능하다.
+
+```html
+<p align="center"><img src="이미지 링크" width="100px" height="100px"></p>
+
+<center><img src="이미지 링크" width="100px" height="100px"></center>
+```
+
+<br>
+
+<p align="center"><img src="https://pbs.twimg.com/media/E9s0aWRVcAImtCu?format=jpg&name=small" width="100px" height="100px"></p>
+
+<br>
+
+<center><img src="https://pbs.twimg.com/media/E9s0aWRVcAImtCu?format=jpg&name=small" width="100px" height="100px"></center>
 
 <br>
 
@@ -343,9 +412,7 @@ __볼드체__
 
 ## 2.10. 표(Table)
 
-마크다운 문법엔 없다...
-
-HTML의  `<table>` 태그로 변환한다.
+마크다운 문법엔 없다... HTML의  `<table>` 태그로 변환해서 표시한다.
 
 헤더 셀을 구분할 때 3개 이상의 -(hyphen/dash) 기호가 필요하다.
 
@@ -357,14 +424,14 @@ HTML의  `<table>` 태그로 변환한다.
 ```
 | 날짜 | 메뉴 | 가격 |
 |:---:|:---:|:---:|
-| 12월 31일 | 맥주 | 20000원 |
-| 1월 1일 | 떡국 | 5000원 |
+| 12월 31일 | 맥주 | 5000원 |
+| 1월 1일 | 떡국 | 8000원 |
 ```
 
 | 날짜 | 메뉴 | 가격 |
 |:---:|:---:|:---:|
 | 12월 31일 | 맥주 | 5000원 |
-| 1월 1일 | 떡국 | 6000원 |
+| 1월 1일 | 떡국 | 8000원 |
 
 <br>
 
@@ -375,3 +442,5 @@ HTML의  `<table>` 태그로 변환한다.
 [[공통] 마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
+
+[Aligning images](https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d)

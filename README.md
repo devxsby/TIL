@@ -12,8 +12,10 @@
   - [앱의 구조와 라이프 사이클](./iOS/앱의%20구조와%20라이프%20사이클.md)
   
   - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM%20비교.md)
+
+  - [Auto Layout 설정하기](./iOS/Auto%20Layout.md)
   
-  -  [Delegate 패턴](./iOS/Delegate%20Pattern.md)
+  - [Delegate 패턴](./iOS/Delegate%20Pattern.md)
 
 <br>
 
@@ -24,11 +26,11 @@
 
   - [구조체와 클래스](./Swift/Struct,%20Class.md)
   
-  - [프로퍼티와 메서드](./Swift/Property.md) `3.15 업데이트 예정`
+  - [프로퍼티와 메서드](./Swift/Property.md) `작성중`
   
-  - [인스턴스 생성 및 소멸](./Swift/Instance.md) : `3.16 업데이트 예정`
+  - [인스턴스 생성 및 소멸](./Swift/Instance.md) : `작성중`
 
-  - [프로토콜](./Swift/Protocol.md) `업데이트 예정`
+  - [프로토콜](./Swift/Protocol.md) `작성중`
   
   - [API 디자인 가이드](./Swift/API%20Design%20Guidelines.md)
   
