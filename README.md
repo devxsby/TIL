@@ -9,9 +9,9 @@
 오류 사항은 PR 보내주세요 ! 
 
 ## iOS
-  - [앱의 구조와 라이프 사이클](./iOS/앱의%20구조와%20라이프%20사이클.md)
+  - [앱의 구조와 라이프 사이클](./iOS/AppStructure,%20AppLifeCycle.md)
   
-  - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM%20비교.md)
+  - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM.md)
 
   - [Auto Layout 설정하기](./iOS/Auto%20Layout.md)
   
@@ -20,7 +20,7 @@
 <br>
 
 ## Swift
-  - [스위프트의 언어적 특성](./Swift/스위프트의%20언어적%20특성.md)
+  - [스위프트의 언어적 특성](./Swift/About%20Swift.md)
   
   - [옵셔널](./Swift/Optionals.md)
 
@@ -28,7 +28,7 @@
   
   - [프로퍼티와 메서드](./Swift/Property.md) `작성중`
   
-  - [인스턴스 생성 및 소멸](./Swift/Instance.md) : `작성중`
+  - [인스턴스 생성 및 소멸](./Swift/Instance.md) `작성중`
 
   - [프로토콜](./Swift/Protocol.md) `작성중`
   
@@ -43,28 +43,25 @@
 
 <br>
 
-## Apple
-
-### Human Interface Guidelines (HIG)
-  - `업데이트 예정`
+## Human Interface Guidelines_iOS
+  - iOS
+    - [Interface Essentials](./HIG_iOS/1-1.Interface%20Essentials.md)
+    - [Themes](./HIG_iOS/1-2.Themes.md)
+  
+  - App Architecture
+    - [Launching](./HIG_iOS/2-1.Launching.md)
+    - 
 
 <br>
 
-## Computer Science
-
-### Algorithms
+## Algorithms
   - `업데이트 예정`
 
-### Computer Architecture
-  - `업데이트 예정`
-
-### Data Structures
-  - `업데이트 예정`
 
 <br>
 
 ## ETC
-  - [백준 온라인 저지 알고리즘 문제풀이 기초 문제 추천](./ETC/BOJ%20PS%20기초%20문제.md)
+  - [백준 온라인 저지 알고리즘 문제풀이 기초 문제 추천](./ETC/BOJ%20PS.md)
   
   - [Git 명령어](./ETC/Git%20Commit%20Message.md)
   
