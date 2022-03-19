@@ -42,6 +42,8 @@
 - $ man [command name] : 명령어 매뉴얼 확인하기 (나가기 : q 입력)
 
 - $ exit : 터미널 창 종료
+  
+- $ killall Dock : Dock 바 오류날 때 재부팅
 
 <br>
 

@@ -6,7 +6,36 @@
 
 참고자료를 바탕으로 직접 작성하였습니다.
 
-오류 사항은 PR 보내주세요 ! 
+오류 사항은 PR 보내주세요 !
+
+## Algorithms
+`업데이트 예정`
+
+<br>
+
+## Computer Science
+### Computer Architecture
+`업데이트 예정`
+
+<br>
+
+### Data Structure
+`업데이트 예정`
+
+<br>
+
+### Data Analysis
+  - [코사인 유사도 (Cosine Similarity)](./DataAnalysis/CosineSimilarity.md) `업데이트 예정`
+
+<br>
+
+## Python
+  - [lamda(람다)](./Python/lamda.md) `업데이트 예정`
+  - [매크로](./Python/macro.md) `업데이트 예정`
+
+<br>
+
+---
 
 ## iOS
   - [앱의 구조와 라이프 사이클](./iOS/AppStructure,%20AppLifeCycle.md)
@@ -45,20 +74,15 @@
 
 ## Human Interface Guidelines_iOS
   - iOS
-    - [Interface Essentials](./HIG_iOS/1-1.Interface%20Essentials.md)
-    - [Themes](./HIG_iOS/1-2.Themes.md)
+    - [Interface Essentials](./HIG_iOS/1-1.Interface%20Essentials.md) `업데이트 예정`
+    - [Themes](./HIG_iOS/1-2.Themes.md) `업데이트 예정`
   
   - App Architecture
-    - [Launching](./HIG_iOS/2-1.Launching.md)
-    - 
+    - [Launching](./HIG_iOS/2-1.Launching.md) `업데이트 예정`
 
 <br>
 
-## Algorithms
-  - `업데이트 예정`
-
-
-<br>
+---
 
 ## ETC
   - [백준 온라인 저지 알고리즘 문제풀이 기초 문제 추천](./ETC/BOJ%20PS.md)
