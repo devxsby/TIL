@@ -25,7 +25,7 @@
 <br>
 
 ### Data Analysis
-  - [코사인 유사도 (Cosine Similarity)](./DataAnalysis/CosineSimilarity.md) `업데이트 예정`
+  - [코사인 유사도 (Cosine Similarity)](./DataAnalysis/Cosine%20Similarity.md)
 
 <br>
 
