@@ -8,33 +8,6 @@
 
 오류 사항은 PR 보내주세요 !
 
-## Algorithms
-`업데이트 예정`
-
-<br>
-
-## Computer Science
-### Computer Architecture
-`업데이트 예정`
-
-<br>
-
-### Data Structure
-`업데이트 예정`
-
-<br>
-
-### Data Analysis
-  - [코사인 유사도 (Cosine Similarity)](./DataAnalysis/Cosine%20Similarity.md)
-
-<br>
-
-## Python
-  - [lamda(람다)](./Python/lamda.md) `업데이트 예정`
-  - [매크로](./Python/macro.md) `업데이트 예정`
-
-<br>
-
 ---
 
 ## iOS
@@ -76,11 +49,37 @@
 
 ## Human Interface Guidelines_iOS
   - iOS
-    - [Interface Essentials](./HIG_iOS/1-1.Interface%20Essentials.md) `업데이트 예정`
-    - [Themes](./HIG_iOS/1-2.Themes.md) `업데이트 예정`
+    - [Interface Essentials](./HIG_iOS/1-1.Interface%20Essentials.md)
+    - [Themes](./HIG_iOS/1-2.Themes.md)
   
   - App Architecture
     - [Launching](./HIG_iOS/2-1.Launching.md) `업데이트 예정`
+
+<br>
+
+---
+
+## Algorithms
+
+<br>
+
+## Computer Science
+### Computer Architecture
+
+<br>
+
+### Data Structure
+
+<br>
+
+### Data Analysis
+  - [코사인 유사도 (Cosine Similarity)](./DataAnalysis/Cosine%20Similarity.md) `작성 중`
+
+<br>
+
+## Python
+  - [lamda(람다)](./Python/lamda.md) `업데이트 예정`
+  - [매크로](./Python/macro.md) `업데이트 예정`
 
 <br>
 
