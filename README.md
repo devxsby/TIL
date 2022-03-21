@@ -40,6 +40,8 @@
 ## iOS
   - [앱의 구조와 라이프 사이클](./iOS/AppStructure,%20AppLifeCycle.md)
   
+  - [뷰컨트롤러의 라이프 사이클](./iOS/ViewController%20Life%20Cycle.md)
+
   - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM.md)
 
   - [Auto Layout 설정하기](./iOS/Auto%20Layout.md)
@@ -55,11 +57,11 @@
 
   - [구조체와 클래스](./Swift/Struct,%20Class.md)
   
-  - [프로퍼티와 메서드](./Swift/Property.md) `작성중`
+  - [프로퍼티와 메서드](./Swift/Property.md)
   
-  - [인스턴스 생성 및 소멸](./Swift/Instance.md) `작성중`
+  - [인스턴스 생성 및 소멸](./Swift/Instance.md)
 
-  - [프로토콜](./Swift/Protocol.md) `작성중`
+  - [프로토콜](./Swift/Protocol.md)
   
   - [API 디자인 가이드](./Swift/API%20Design%20Guidelines.md)
   

@@ -2,7 +2,7 @@
 
 ## 앱의 프로세스 구조
 
-### 1. 엔트리 포인트 (UIApplicationMain)
+### 1. 엔트리 포인트
 
 * 기본적으로 만들어지는 main()함수에서 UIApplicationMain을 호출
 * 시스템으로부터 전달받은 두 개의 인자값과 AppDelegate 클래스를 이용하여 UIApplicationMain()함수 호출
@@ -112,7 +112,7 @@ iOS 13 이상에서 사용자는 앱UI의 여러 복사본을 만들어 App Swit
 
 사용자가 새로운 Scene을 요청하면 UIKit은 Scene Object를 만들고 초기설정을 처리한다. 앱은 지원하는 Scene type과 이 Scene들을 관리하는 데 사용하는 object들을 반드시 선언해야 한다. 선언은 info.plist에서 정적으로 하거나 런타임에서 동적으로 할 수 있다.
 
-Scene을 사용하지 않을 수도 있는데 ... 멀티윈도우를 사용하고 싶다면 쓰는게 좋다. (**Applle 권장**)
+Scene을 사용하지 않을 수도 있는데 ... 멀티윈도우를 사용하고 싶다면 쓰는게 좋다. (**Apple 권장**)
 
 각 Scene은 자신만의 라이프 사이클이 있기 때문에 다른 실행 상태에 있을 수 있다. 예를 들어 한 Scene이 foreground에 있는 동안 다른 Scene은 background에 있을 수 있다.
 
@@ -230,3 +230,5 @@ Scene을 사용하지 않을 수도 있는데 ... 멀티윈도우를 사용하�
 [iOS13のScene-Basedライフサイクル(UISceneDelegate)](https://qiita.com/KenNagami/items/cbbe98b736fbdb24fef8)
 
 [App LifeCycle (앱의 생명주기)](https://velog.io/@llghdud921/App-LifeCycle-앱의-생명주기)
+
+[[App's Life Cycle] App-Based Life-Cycle과 Scene-Based Life-Cycle](https://eunjin3786.tistory.com/163)
