@@ -32,7 +32,7 @@
   
   - [프로퍼티와 메서드](./Swift/Property.md)
   
-  - [인스턴스 생성 및 소멸](./Swift/Instance.md)
+  - [인스턴스 생성 및 소멸](./Swift/Instance.md) `작성중`
 
   - [프로토콜](./Swift/Protocol.md)
   
@@ -49,9 +49,9 @@
 
 ## Human Interface Guidelines_iOS
   - iOS
-    - [Interface Essentials](./HIG_iOS/1-1.Interface%20Essentials.md)
-    - [Themes](./HIG_iOS/1-2.Themes.md)
-  
+    - [Themes](./HIG_iOS/1-1.Themes.md)
+    - [Interface Essentials](./HIG_iOS/1-2.Interface%20Essentials.md)
+
   - App Architecture
     - [Launching](./HIG_iOS/2-1.Launching.md) `업데이트 예정`
 
@@ -65,6 +65,7 @@
 
 ## Computer Science
 ### Computer Architecture
+  - []()
 
 <br>
 
