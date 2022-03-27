@@ -53,7 +53,7 @@
     - [Interface Essentials](./HIG_iOS/1-2.Interface%20Essentials.md)
 
   - App Architecture
-    - [Launching](./HIG_iOS/2-1.Launching.md) `업데이트 예정`
+    - [Launching](./HIG_iOS/2-1.Launching.md)
 
 <br>
 
