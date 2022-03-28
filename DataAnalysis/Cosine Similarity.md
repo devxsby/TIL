@@ -9,6 +9,7 @@
 
 <p align="center"><img src="https://images.deepai.org/glossary-terms/cosine-similarity-1007790.jpg" width="80%"></p>
 
-<p align="center"><img src=" https://wikidocs.net/images/page/24603/코사인유사도.PNG></p>
+<p align="center"><img src="https://wikidocs.net/images/page/24603/코사인유사도.PNG" width="80%" ></p>
 
-https://blog.kakaocdn.net/dn/0pBN5/btqBW1nWMbL/E4Hh4JpyOqT3Opg4MhPa70/img.png
+<p align="center"><img src="https://blog.kakaocdn.net/dn/0pBN5/btqBW1nWMbL/E4Hh4JpyOqT3Opg4MhPa70/img.png" width="80%" ></p>
+

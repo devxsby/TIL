@@ -54,6 +54,7 @@
 
   - App Architecture
     - [Launching](./HIG_iOS/2-1.Launching.md)
+    - [Onboarding](./HIG_iOS/2-2.Onboarding.md)
 
 <br>
 
