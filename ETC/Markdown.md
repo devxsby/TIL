@@ -64,24 +64,6 @@
   ###### 바
   ####### 사
 
-* **문자 중앙정렬** : center를 앞 뒤로 넣어 감싸주면 된다.
-  ```
-  <center>Hello, World!</center>
-  ```
-
-  <center>Hello, World!</center>
-
-  <br>
-
-  > 글머리랑 합쳐서 크기를 조정하고 정렬할 수도 있다.
-  ```
-  ## <center>Hello, World!</center>
-  ```
-
-  ## <center>Hello, World!</center>
-
-<br>
-
 ## 2.2. 블럭 인용문 (Block Quote)
 
 이메일에서 사용하는 ```>``` 블럭인용문자를 이용한다.
