@@ -6,7 +6,9 @@
 
 참고자료를 바탕으로 직접 작성하였습니다.
 
-오류 사항은 PR 보내주세요 !
+> 오류 사항은 PR 보내주세요 ! ! !
+
+<p align="center"><img src= "https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/703K/image/Qqqhpwp4N49IKrbf2F0Lrp0l6L4.jpg" width="30%" ></p>
 
 ---
 
