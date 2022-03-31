@@ -59,6 +59,7 @@
     - [Onboarding](./HIG_iOS/2-2.Onboarding.md)
     - [Loading](./HIG_iOS/2-3.Loading.md)
     - [Modality](./HIG_iOS/2-4.Modality.md)
+    - [Navigation](./HIG_iOS/2-5.Navigation.md)
 
 <br>
 
