@@ -61,7 +61,7 @@
     - [Modality](./HIG_iOS/2-4.Modality.md)
     - [Navigation](./HIG_iOS/2-5.Navigation.md)
     - [Accessing User Data](./HIG_iOS/2-6.Accessing%20User%20Data%20and%20Resources.md) `번역본 추후 업데이트`
-    - [Settings]()
+    - [Settings](./HIG_iOS/2-7.Settings.md)
 
   - User Interaction
     - [3D Touch]()
