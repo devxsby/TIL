@@ -64,7 +64,7 @@
     - [Settings](./HIG_iOS/2-7.Settings.md)
 
   - User Interaction
-    - [3D Touch]()
+    - [3D Touch](./HIG_iOS/3-1.3D%20Touch.md)
     - [Accounts]()
 
 <br>
