@@ -67,6 +67,13 @@
     - [3D Touch](./HIG_iOS/3-1.3D%20Touch.md)
     - [Accounts](./HIG_iOS/3-2.Accounts.md) `번역본 추후 업데이트`
 
+  - System capabilities
+    - []() `업데이트 예정`
+
+  - Visual Design
+    - [Adaptivity and Layout](./HIG_iOS/5-1.Adaptivity%20and%20Layout.md)
+    - []()
+
 <br>
 
 ---
