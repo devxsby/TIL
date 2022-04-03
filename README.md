@@ -65,7 +65,7 @@
 
   - User Interaction
     - [3D Touch](./HIG_iOS/3-1.3D%20Touch.md)
-    - [Accounts]()
+    - [Accounts](./HIG_iOS/3-2.Accounts.md) `번역본 추후 업데이트`
 
 <br>
 
