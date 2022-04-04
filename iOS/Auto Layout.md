@@ -106,13 +106,6 @@ Safe Area는 노치가 적용된 iOS 11 기반의 아이폰x 시리즈부터 만
 4. Bottom Layout Guide.Top = Stack View.Bottom + Standard
 ```
 
-<br>
-
-😬To Be Continued...😬
----
-Auto Layout을 코드로 작성하는 법도 있는데 아직 기초라 할 줄 모른다. 
-
-**나중에 공부하면** ... `추후 업데이트` 하도록 하겠다. 
 
 <br>
 
