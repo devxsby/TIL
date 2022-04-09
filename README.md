@@ -17,6 +17,8 @@
   
   - [뷰컨트롤러의 라이프 사이클](./iOS/ViewController%20Life%20Cycle.md)
 
+  - [뷰 계층구조(View Hierarchy)](./iOS/ViewHierarchy.md)
+
   - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM.md)
 
   - [Auto Layout 설정하기](./iOS/Auto%20Layout.md)
