@@ -27,6 +27,10 @@
   
   - [Delegate 패턴](./iOS/Delegate%20Pattern.md)
 
+  - [탭 바 컨트롤러](./iOS/tabBarController.md) `작성 중`
+
+  - [타입 캐스팅](./iOS/TypeCasting.md) `작성 중`
+
 <br>
 
 ## Swift
@@ -102,8 +106,6 @@
 <br>
 
 ## Python
-  - [lamda(람다)](./Python/lamda.md) `업데이트 예정`
-  - [매크로](./Python/macro.md) `업데이트 예정`
 
 <br>
 
