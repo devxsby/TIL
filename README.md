@@ -21,7 +21,7 @@
   - [Auto Layout Code base로 UI 구현하기](./iOS/Auto%20Layout-Code%20base%20UI.md)
   - [Delegate 패턴](./iOS/Delegate%20Pattern.md)
   - [탭 바 컨트롤러](./iOS/tabBarController.md) `작성 중`
-  - [타입 캐스팅](./iOS/TypeCasting.md)
+
 
 <br>
 
@@ -32,6 +32,7 @@
   - [프로퍼티와 메서드](./Swift/Property.md)
   - [인스턴스 생성 및 소멸](./Swift/Instance.md) `작성중`
   - [프로토콜](./Swift/Protocol.md)
+  - [타입 캐스팅](./iOS/TypeCasting.md)
   - [API 디자인 가이드](./Swift/API%20Design%20Guidelines.md)
   - [StyleShare에서 작성한 Swift 한국어 스타일 가이드](./Swift/Swift%20Style%20Guide%20by%20StyleShare.md)
 
