@@ -17,10 +17,11 @@
   - [뷰컨트롤러의 라이프 사이클](./iOS/ViewController%20Life%20Cycle.md)
   - [뷰 계층구조(View Hierarchy)](./iOS/ViewHierarchy.md)
   - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM.md)
+  - [싱글톤 패턴 (Singleton Pattern)](./iOS/SingletonPattern.md)
   - [Auto Layout 설정하기](./iOS/Auto%20Layout.md)
   - [Auto Layout Code base로 UI 구현하기](./iOS/Auto%20Layout-Code%20base%20UI.md)
   - [Delegate 패턴](./iOS/Delegate%20Pattern.md)
-  - [탭 바 컨트롤러](./iOS/tabBarController.md) `작성 중`
+  - [탭 바 컨트롤러의 didSelect와 shouldSelect ](./iOS/tabBarController.md)
 
 
 <br>
@@ -99,13 +100,8 @@
 
 ## ETC
   - [백준 온라인 저지 알고리즘 문제풀이 기초 문제 추천](./ETC/BOJ%20PS.md)
-  
   - [Git 명령어](./ETC/Git%20Commit%20Message.md)
-  
   - [Git 커밋 메시지 작성법](./ETC/Git%20Command%20Line.md)
-  
   - [Gitignore이란?](./ETC/Gitignore.md)
-  
   - [맥 터미널 명령어](./ETC/Mac%20Terminal%20Command.md)
-  
   - [마크다운 문법](./ETC/Markdown.md)
