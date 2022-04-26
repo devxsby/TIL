@@ -14,40 +14,25 @@
 
 ## iOS
   - [앱의 구조와 라이프 사이클](./iOS/AppStructure,%20AppLifeCycle.md)
-  
   - [뷰컨트롤러의 라이프 사이클](./iOS/ViewController%20Life%20Cycle.md)
-
   - [뷰 계층구조(View Hierarchy)](./iOS/ViewHierarchy.md)
-
   - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM.md)
-
   - [Auto Layout 설정하기](./iOS/Auto%20Layout.md)
-
   - [Auto Layout Code base로 UI 구현하기](./iOS/Auto%20Layout-Code%20base%20UI.md)
-  
   - [Delegate 패턴](./iOS/Delegate%20Pattern.md)
-
   - [탭 바 컨트롤러](./iOS/tabBarController.md) `작성 중`
-
-  - [타입 캐스팅](./iOS/TypeCasting.md) `작성 중`
+  - [타입 캐스팅](./iOS/TypeCasting.md)
 
 <br>
 
 ## Swift
   - [스위프트의 언어적 특성](./Swift/About%20Swift.md)
-  
   - [옵셔널](./Swift/Optionals.md)
-
   - [구조체와 클래스](./Swift/Struct,%20Class.md)
-  
   - [프로퍼티와 메서드](./Swift/Property.md)
-  
   - [인스턴스 생성 및 소멸](./Swift/Instance.md) `작성중`
-
   - [프로토콜](./Swift/Protocol.md)
-  
   - [API 디자인 가이드](./Swift/API%20Design%20Guidelines.md)
-  
   - [StyleShare에서 작성한 Swift 한국어 스타일 가이드](./Swift/Swift%20Style%20Guide%20by%20StyleShare.md)
 
 <br>
