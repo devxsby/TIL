@@ -62,6 +62,12 @@ Dynamic Dispatch와는 반대로 컴파일 시기에 이미 어떠한 메소드�
 
 그러므로 Dynamic Dispatch처럼 결정하는 과정이 없으니 성능상으로 이점이 있을 것이다..!
 
+
+> ⭐️ 추가적으로 `final` 키워드 뿐만 아니라 `private` 또한 다른 곳에서 override를 하지 않으면 컴파일러가 알아서 Static Dispatch처럼 동작한다.
+> 
+> 접근제한자의 역할 뿐만 아니라 이러한 이유에서라도 private를 습관화 하는게 좋다.
+
+
 ---
 
 ### 참고자료
