@@ -119,3 +119,5 @@ print(userInfo.name ?? "")
 [[Swift] 싱글톤 패턴(Singleton Pattern)](https://janechoi.tistory.com/4)
 
 [[디자인 패턴] 싱글톤 패턴(Singleton pattern)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Design%20Pattern/Singleton%20Pattern.md)
+
+[Singleton Pattern](https://velog.io/@pcsoyeon/Singleton-Pattern)
