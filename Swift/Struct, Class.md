@@ -251,3 +251,5 @@ public struct String {
 [클래스과 구조체(Classes and Structures)](https://jusung.gitbook.io/the-swift-language-guide/language-guide/09-classes-and-structures)
 
 [Swift – 구조체 클래스](https://blog.yagom.net/530/)
+
+[Swift 성능 이해하기 struct-class](https://noah0316.github.io/Swift/2021-12-21-swift-성능-이해하기-struct-class/)
