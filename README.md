@@ -24,6 +24,7 @@
   - [Delegate 패턴](./iOS/Delegate%20Pattern.md)
   - [탭 바 컨트롤러의 didSelect와 shouldSelect ](./iOS/tabBarController.md)
   - [automaticDimension](./iOS/automaticDimension.md)
+  - [UIGraphicsImageRenderer](./iOS/UIGraphicsImageRenderer.md)
 
 
 <br>
