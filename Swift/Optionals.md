@@ -187,3 +187,5 @@ print(myName)   // 오류!!
 [Optional Changing](https://docs.swift.org/swift-book/LanguageGuide/OptionalChaining.html)
 
 [What is an "unwrapped value" in Swift?](https://stackoverflow.com/questions/24034483/what-is-an-unwrapped-value-in-swift)
+
+[[Swift]weak와 unowned 사용 방법](http://minsone.github.io/mac/ios/rules-of-weak-and-unowned-in-swift)
