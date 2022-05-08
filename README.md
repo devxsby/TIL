@@ -39,6 +39,7 @@
   - [타입 캐스팅](./iOS/TypeCasting.md)
   - [final 키워드](./Swift/final.md)
   - [lazy 키워드](./Swift/lazy.md)
+  - [제네릭(Generic)](./Swift/Generic.md)
   - [초기화](./Swift/init.md)
   - [예외처리](./Swift/exception.md)
   - [접근 제한자](./Swift/AccessControl.md)
