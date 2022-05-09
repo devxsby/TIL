@@ -10,7 +10,7 @@
   
 <br>
 
-# 옵셔널 사용
+# 1. 옵셔널 사용
 
 그 전에 기본적으로 데이터 타입 중 nil과 그 친구들에 대해 간단히 알아보겠다.
 
@@ -64,7 +64,7 @@ checkOptionalValue(value: myName)  // This Optional value is nil.
 
 <br>
 
-# 옵셔널 추출
+# 2. 옵셔널 추출
 
 * 옵셔널을 값을 가지고 오고 싶을 때는 어떻게 해야 할까?
 * 열거형의 some 케이스로 꼭꼭 숨어있는 **옵셔널의 값을 옵셔널이 아닌 값으로 추출**하는 옵셔널 추출(Optional Unsrapping)방법에 알아보자.
@@ -142,11 +142,31 @@ if let name = myName, let friend = yourName {
 // We are friend! Ava & Eve.
 ```
 
-* 옵셔널 바인딩은 옵셔널 체이닝과 환상적인 조합을 이룬다. `옵셔널 체이닝은 추후 업데이트`
+* 옵셔널 바인딩은 옵셔널 체이닝과 환상적인 조합을 이룬다.
+
+## 3. 옵셔널 체이닝
+
+* 옵셔널 체이닝 (Optional Chaning)은 해당 변수가 옵셔널 타입인 경우 뒤에 `?`를 붙여 속성 및 메서드에 안전하게 접근할 수 있는 방법이다.
+
+* 아래 예시처럼 a가 nil이면 a.count가 에러가 나므로 a?.count로 a가 nil인 경우를 대비해 옵셔널 체이닝으로 값을 추출할 수 있다.
+
+```swift
+let a: String? = "12345"
+print(a?.count) // Optional(4)
+```
+
+## 4. nil 병합 연산자
+
+* 뒤에 `??`를 붙이고 nil인 경우의 기본값을 지정하는 방법이다.
+
+```swift
+let opt: Int? = 3
+print(opt ?? 100) //3
+```
 
 <br>
 
-## 3. 암시적 추출 옵셔널
+## + 암시적 추출 옵셔널
 
 * 때때로 nil을 할당하고 싶지만, 옵셔널 바인딩으로 매번 값을 추출하기 귀찮거나 등... nil을 할당해줄 수 있는 옵셔널이 아닌 변수나 상수가 있으면 좋을 것이다. 이때 사용하는 것이 암시적 추출 옵셔널(Implicitly Unwrapped Optionals)이다.
   
@@ -172,8 +192,10 @@ if var name = myName {
 print(myName)   // 오류!!
 ```
 
-결론 !
---- 
+---
+
+### 결론 !!!
+
   옵셔널을 사용할 때는 강제 추출 또는 암시적 추출 옵셔널을 사용하기 보다는 옵셔널 바인딩, nil 병합 연산자를 비롯해 옵셔널 체이닝 등의 방법을 사용하는 것이 훨씬 안전하며, 스위프트 언어의 지향점에 부합한다.
 
 <br>
@@ -189,3 +211,5 @@ print(myName)   // 오류!!
 [What is an "unwrapped value" in Swift?](https://stackoverflow.com/questions/24034483/what-is-an-unwrapped-value-in-swift)
 
 [[Swift]weak와 unowned 사용 방법](http://minsone.github.io/mac/ios/rules-of-weak-and-unowned-in-swift)
+
+[[iOS / Swift] Swift 문법을 알아보자! - 12편 : nil 병합 연산자 (nil coalescing operator)](https://velog.io/@wook4506/iOS-Swift-nil-병합-연산자-nil-coalescing-operator)
