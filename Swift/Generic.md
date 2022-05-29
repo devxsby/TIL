@@ -5,6 +5,8 @@
 
 ### 참고자료
 
+[Generics](https://docs.swift.org/swift-book/LanguageGuide/Generics.html)
+
 [Swift) 제네릭(Generic) 정복하기](https://babbab2.tistory.com/136)
 
 
