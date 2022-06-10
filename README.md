@@ -17,7 +17,7 @@
   - [뷰컨트롤러의 라이프 사이클](./iOS/ViewController%20Life%20Cycle.md)
   - [뷰 계층구조(View Hierarchy)](./iOS/ViewHierarchy.md)
   - [MVC, MVP, MVVM 비교](./iOS/MVC,%20MVP,%20MVVM.md)
-  - [MVC 패턴](./iOS/MVC.md) `작성중`
+  - [MVC 패턴 쉽게 설명해주신 링크](./iOS/MVC.md)
   - [싱글톤 패턴 (Singleton Pattern)](./iOS/SingletonPattern.md)
   - [Auto Layout 설정하기](./iOS/Auto%20Layout.md)
   - [Auto Layout Code base로 UI 구현하기](./iOS/Auto%20Layout-Code%20base%20UI.md)
@@ -40,11 +40,11 @@
   - [타입 캐스팅](./iOS/TypeCasting.md)
   - [final 키워드](./Swift/final.md)
   - [lazy 키워드](./Swift/lazy.md)
-  - [제네릭(Generic)](./Swift/Generic.md)
+  - [제네릭(Generic)](./Swift/Generic.md) `작성예정`
   - [초기화](./Swift/init.md)
   - [예외처리](./Swift/exception.md)
   - [접근 제한자](./Swift/AccessControl.md)
-  - [ARC](./Swift/ARC.md) `작성중`
+  - [ARC](./Swift/ARC.md) `작성예정`
   - [API 디자인 가이드](./Swift/API%20Design%20Guidelines.md)
   - [StyleShare에서 작성한 Swift 한국어 스타일 가이드](./Swift/Swift%20Style%20Guide%20by%20StyleShare.md)
 
@@ -74,7 +74,7 @@
     - [Accounts](./HIG_iOS/3-2.Accounts.md) `번역본 추후 업데이트`
 
   - System capabilities
-    - []() `업데이트 예정`
+    - []()
 
   - Visual Design
     - [Adaptivity and Layout](./HIG_iOS/5-1.Adaptivity%20and%20Layout.md)
@@ -86,24 +86,13 @@
 
 ## Algorithms
 
+`추후 업데이트`
+
 <br>
 
 ## Computer Science
-### Computer Architecture
-  - []()
 
-<br>
-
-### Data Structure
-
-<br>
-
-### Data Analysis
-  - [코사인 유사도 (Cosine Similarity)](./DataAnalysis/Cosine%20Similarity.md) `작성 중`
-
-<br>
-
-## Python
+`추후 업데이트`
 
 <br>
 
