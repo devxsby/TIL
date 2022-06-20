@@ -23,7 +23,7 @@
   - [Auto Layout Code base로 UI 구현하기](./iOS/Auto%20Layout-Code%20base%20UI.md)
   - [Delegate 패턴](./iOS/Delegate%20Pattern.md)
   - [탭 바 컨트롤러의 didSelect와 shouldSelect ](./iOS/tabBarController.md)
-  - [URLSession, Alamofire, Moya 비교](./iOS/%EC%84%9C%EB%B2%84%ED%86%B5%EC%8B%A0%EB%B9%84%EA%B5%90.md)
+  - [URLSession, Alamofire, Moya 비교](./iOS/ServerCommunication.md)
   - [automaticDimension](./iOS/automaticDimension.md)
   - [UIGraphicsImageRenderer](./iOS/UIGraphicsImageRenderer.md)
   - [UIScrollViewDelegate](./iOS/UIScrollViewDelegate.md)
