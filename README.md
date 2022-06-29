@@ -88,13 +88,9 @@
 
   - [1장. 깨끗한 코드](./CleanCode/lecture1.md)
 
----
-
-## Algorithms
-
-`추후 업데이트`
-
 <br>
+
+---
 
 ## Computer Science
 
