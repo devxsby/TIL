@@ -53,8 +53,8 @@
 
 <br>
 
-## RxSwift
-  - `업데이트 예정`
+## Combine
+  - 
 
 <br>
 
@@ -89,7 +89,9 @@
 
 ## Computer Science
 
-`추후 업데이트`
+  - 운영체제
+
+
 
 <br>
 
