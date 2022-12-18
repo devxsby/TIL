@@ -58,7 +58,7 @@
 
 <br>
 
-## Human Interface Guidelines_iOS
+## Human Interface Guidelines
   - iOS
     - [Themes](./HIG_iOS/1-1.Themes.md)
     - [Interface Essentials](./HIG_iOS/1-2.Interface%20Essentials.md)
@@ -82,18 +82,6 @@
   - Visual Design
     - [Adaptivity and Layout](./HIG_iOS/5-1.Adaptivity%20and%20Layout.md)
     - []()
-
-<br>
-
----
-
-## Computer Science
-
-  - 자료구조
-  - 데이터베이스
-  - 네트워크
-  - 운영체제
-
 
 
 <br>
