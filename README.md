@@ -58,6 +58,7 @@
   -  [Combine 시작하기(2)-Publisher](./Combine/Combine2.md)
   -  [Combine 시작하기(3)-Subscriber](./Combine/Combine3.md)
   -  [Combine 시작하기(4)-Scheduler](./Combine/Combine4.md)
+  -  [Combine 시작하기(5)-기타](./Combine//Combine5.md)
 
 <br>
 
